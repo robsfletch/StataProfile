@@ -1,6 +1,7 @@
 adopath ++ "~/github/Pretty/"
 adopath ++ "~/github/PrettyScheme/"
 adopath ++ "~/github/StataBin/"
+adopath ++ "~/github/PropensityScores/"
 
 set more off, permanently
 
